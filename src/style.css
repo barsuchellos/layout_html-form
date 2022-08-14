@@ -1,1 +1,27 @@
 /* styles go here */
+
+.form-field {
+  display: block;
+  margin-top: 10px;
+}
+
+.box {
+  display: block;
+  margin-top: 20px;
+}
+
+.main-button {
+  margin-top: 10px;
+}
+
+.cars {
+  overflow-y: auto;
+}
+
+.form-field:first-child {
+  margin-top: 0;
+}
+
+.box:first-child {
+  margin-top: 0;
+}
